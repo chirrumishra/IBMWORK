@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=MiZ3hLgN8pc
 
 ## Website Link:
-https://chirrumishra.github.io/IBMWORK/index.html
+https://chirrumishra.github.io/IBMWORK
 
 ## Team Members:
 1) Deepanshi Srivastava (team leader) : https://github.com/Deepanshi200
